@@ -1,5 +1,5 @@
 # boas vindas o meu perfil
-meu nome é Nicole Nataly Daniel.
+* meu nome é Nicole Nataly Daniel.
 Estou estudando na alura,
 me formando na JavaScript.
 
